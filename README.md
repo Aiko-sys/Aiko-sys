@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hii, I'm Ricky
 
-<!--
-**rickyy-sys/rickyy-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💎 Skils 
 
-Here are some ideas to get you started:
+<div style="display: inline-block">
+  <img width="70" alt="Ricky-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img width="70" alt="Ricky-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />         
+  <img width="58" alt="Ricky-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+  <img width="70" alt="Ricky-REACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img width="70" alt="Ricky-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<!--   <img width="70" alt="Ricky-HTML" src="" /> 
+  <img width="70" alt="Ricky-HTML" src="" />  -->
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
