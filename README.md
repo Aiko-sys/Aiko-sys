@@ -5,8 +5,8 @@
     <li> Focus on the Back-end</li>
   </ul>
  
-### 💎 Skils <br>
-####   Libraries,languages and frameworks ->
+### 💎 Skills <br>
+####   Libraries, languages and frameworks ->
 <p> - Back-end </p>
 
 <div style="display: inline-block">
