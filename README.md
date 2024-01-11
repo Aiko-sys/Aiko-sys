@@ -1,4 +1,4 @@
-## Hi, I'm Richard
+## Hi, I'm Aiko
   <ul>
     <li> Web Developer </li>
     <li> Stack PHP </li>
