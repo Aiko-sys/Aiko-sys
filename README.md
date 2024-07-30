@@ -29,11 +29,6 @@
 </div>
 <hr>
  
-## CyberSecurity 
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Aikshacking.png)
-
-<hr>
 
 ### PREACH ANARCHY. I AM FREE!!!
 <img width="95" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Circle-A_red.svg/2048px-Circle-A_red.svg.png" alt="anarchy">
