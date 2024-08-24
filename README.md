@@ -1,7 +1,6 @@
 ## Hi, I'm Aiko...
   <ul>
     <li> Technology enthusiast </li>
-    <li> politically active in technology </li>
     <li> Free Software Believer </li>
   </ul>
 <hr>
@@ -26,14 +25,10 @@
     <li> Web development knowledge</li>
     <li> Low Level computing knowledge </li>
     <li> Linux and IT support knowlegde </li>
-    <li> OSINT professional </li>
   </ul>
 </div>
 <hr>
  
 
-### PREACH ANARCHY. I AM FREE!!!
-<img width="95" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Circle-A_red.svg/2048px-Circle-A_red.svg.png" alt="anarchy">
-<br>
 
 
