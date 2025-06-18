@@ -7,7 +7,7 @@ I'm <strong>Aiko</strong> (She/He/They) - I'm a <strong>Computer Engineer</stron
  - ⌨️ Computer architeture
  - 🔐 CyberSecurity 
 
-Let's view some of my skills :)
+Let's see some of my skills :)
 
 ### Programming📱
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
