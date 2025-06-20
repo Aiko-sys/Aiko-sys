@@ -18,7 +18,7 @@ Let's see some of my skills :)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### Connect with me:
-<a href="https://linkedin.com/in/vaiko-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/aiko-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aiko-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/aiko-dev" height="30" width="40" /></a>
 <a href="https://roadmap.sh/u/aikosys" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/120650344?s=200&v=4" height="40" width="40" /></a>
 
 
