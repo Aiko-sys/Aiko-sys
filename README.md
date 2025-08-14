@@ -1,5 +1,5 @@
 # Hi Techs! <img width="34" alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"/>.
-I'm <strong>Aiko</strong> (She/He/They) - I'm a <strong>Computer Engineer</strong> student. I am very interessed in these things: 
+I'm <strong>Aiko</strong>  - I'm a <strong>Computer Engineer</strong> student. I am very interessed in these things: 
  - 💻 Programming (High and Low level)
  - 🌐 Computer networks 
  - 📱 Operating systems
