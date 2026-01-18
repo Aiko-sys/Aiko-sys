@@ -5,7 +5,8 @@ I'm <strong>Aiko</strong>  - I'm a <strong>Computer Engineer</strong> student. I
  - 📱 Operating systems
  - 🤖 Embbeded systems
  - ⌨️ Computer architeture
- - 🔐 CyberSecurity 
+ - 🔐 CyberSecurity
+ - 🏍️ Automotive computing
 
 Let's see some of my skills :)
 
