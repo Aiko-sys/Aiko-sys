@@ -1,27 +1,23 @@
-# Hi Techs! <img width="34" alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"/>.
-I'm <strong>Aiko</strong>  - I'm a <strong>Computer Engineering</strong> student. I am very interessed in these things: 
- - 💻 Programming (High and Low level)
- - 🌐 Computer networks 
- - 📱 Operating systems
- - 🤖 Embbeded systems
- - ⌨️ Computer architeture
- - 🔐 CyberSecurity
- - 🏍️ Automotive computing
 
-Let's see some of my skills :)
+# Hey, I'm Aiko <img width="34" alt="Arch Linux" src="https://skillicons.dev/icons?i=arch"/>.
+## Computer Engineering student  
+ - Currently studying embedded systems  
+ - Dev & sysadmin on the side
 
-### Programming📱
+### Programming stacks & tools📱
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Connect with me:
-<a href="https://linkedin.com/in/aiko-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/aiko-dev" height="30" width="40" /></a>
-<a href="https://roadmap.sh/u/aikosys" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/120650344?s=200&v=4" height="40" width="40" /></a>
+<div align="center">
 
-
-
-
+ ![streak](https://streak-stats.demolab.com?user=Aiko-sys&theme=tokyonight)
+</div>
