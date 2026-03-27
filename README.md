@@ -1,17 +1,17 @@
 
-### Hey, I'm Aiko 
-<p align="left">
-  <img width="28" src="https://skillicons.dev/icons?i=arch"/>
-</p>
+### Hey, I'm Aiko
 
 ---
 
 <b> 
  
 Computer Engineering student 📖
-</b> 
- > 🪛 Currently studying embedded systems  
- > 🖥️ Dev & sysadmin on the side
+</b>
+
+> 🪛 Currently studying embedded systems <br/>
+> 🖥️ Dev & sysadmin on the side<br/>
+> 🐧 Linux User<br/>
+
 
 
 #### ⚙️ Stack
@@ -28,7 +28,6 @@ Computer Engineering student 📖
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 #### 📊 Stats
 
@@ -42,8 +41,6 @@ Computer Engineering student 📖
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aiko-sys&layout=compact&theme=tokyonight&hide_border=true"/>
       </td>
     </tr>
-   <tr>
-   </tr>
   </table>
 </div>
 
